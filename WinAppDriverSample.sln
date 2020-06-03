@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAppDriverSample", "WinAppDriverSample\WinAppDriverSample.csproj", "{ABDBE373-8B4D-494B-A9D6-06D0A8D8A198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAppDriverSampleTests", "WinAppDriverSampleTests\WinAppDriverSampleTests.csproj", "{C86B29BB-5C6A-4B7D-B071-59BF5151DF0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDBE373-8B4D-494B-A9D6-06D0A8D8A198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDBE373-8B4D-494B-A9D6-06D0A8D8A198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDBE373-8B4D-494B-A9D6-06D0A8D8A198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDBE373-8B4D-494B-A9D6-06D0A8D8A198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86B29BB-5C6A-4B7D-B071-59BF5151DF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86B29BB-5C6A-4B7D-B071-59BF5151DF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86B29BB-5C6A-4B7D-B071-59BF5151DF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86B29BB-5C6A-4B7D-B071-59BF5151DF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EBFF68B-3BDD-406E-84B0-01223204735E}
+	EndGlobalSection
+EndGlobal
